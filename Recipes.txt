@@ -5,5 +5,6 @@ welcome
 Kheer
 roti
 pasta
+pizza
 
 thank you
